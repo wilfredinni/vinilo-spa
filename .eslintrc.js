@@ -6,7 +6,7 @@ module.exports = {
     'eslint:recommended',
     'plugin:vue/vue3-recommended',
     'prettier',
-    //   './.eslintrc-auto-import.json',
+    './.eslintrc-auto-import.json',
   ],
   rules: {
     // override/add rules settings here, such as:
